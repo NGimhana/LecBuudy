@@ -1,1 +1,1 @@
-# LecBuudy
+# Smart Lecture Partner
