@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1056993286700",
+    "firebase_url": "https://lecbuddy.firebaseio.com",
+    "project_id": "lecbuddy",
+    "storage_bucket": "lecbuddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056993286700:android:1ddad0b1ee6e36c5",
+        "android_client_info": {
+          "package_name": "com.example.gimhana.lecbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056993286700-5iebe4h9d54vc1iocdnfa8lj54q9vo5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gimhana.lecbuddy",
+            "certificate_hash": "f4f91bf8af64667058ae0bee73730a389fa4a022"
+          }
+        },
+        {
+          "client_id": "1056993286700-v9hamr30vphrestru452b0c8ht00nf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhEN44c_MiJ9D6uSJuH682D20uKK6eDyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056993286700-v9hamr30vphrestru452b0c8ht00nf6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/modulecard_view"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_gravity="center"
+    android:clickable="true"
+    android:contextClickable="true"
+    android:elevation="30dp"
+    android:fadeScrollbars="true"
+    android:padding="20dp"
+    card_view:cardBackgroundColor="#ffffff"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardPreventCornerOverlap="true"
+    card_view:cardUseCompatPadding="true"
+    >
+
+
+    <TextView
+
+        android:id="@+id/Module_description_Title"
+        android:layout_width="match_parent"
+        android:layout_height="91dp"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginStart="80dp"
+        android:lines="2"
+        android:padding="10dp"
+        android:textColor="#000000"
+        android:textSize="18dp" />
+
+    <ImageView
+        android:id="@+id/LectureNoteImage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:layout_marginBottom="15dp"
+        android:scaleType="fitXY"
+        android:textAlignment="gravity"
+
+        />
+
+
+</android.support.v7.widget.CardView>
